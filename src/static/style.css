@@ -1,0 +1,45 @@
+html {
+    color: #cccccc;
+    background-color: #1a1a1a;
+    text-align: center;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 1.3em;
+}
+
+body {
+    max-width: 1050px;
+    margin: 4.5em auto;
+    padding: 0 1em;
+}
+
+a,
+a:visited,
+a.active {
+    color: #cccccc;
+}
+
+h1 {
+    color: #ffff80;
+    font-weight: 400;
+    margin-bottom: 0.2em;
+    margin-top: 0.2em;
+    font-size: 1.9em;
+    display: inline-block;
+}
+
+.description {
+    font-size: 75%;
+    margin-top: 10px;
+    color: #fff !important;
+}
+
+#footer {
+    font-size: 75%;
+    margin-top: 40px;
+    width: 100%;
+    max-width: 1200px;
+}
+
+#footer span {
+    margin: 0 1em;
+}
